@@ -1,0 +1,22 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+config.local.json
+
+# Build output
+target/
+out/
+*.class
+
+# Save games
+saves/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
